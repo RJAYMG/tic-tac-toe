@@ -32,4 +32,9 @@ body {
     height: 4em;
     width: 4em;
     border: 1px solid  black;
+    border-radius: 4px;
+}
+
+#header {
+    margin: 0.5em 0;
 }
